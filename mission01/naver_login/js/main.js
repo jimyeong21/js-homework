@@ -36,7 +36,7 @@ userPassword.addEventListener("keydown", checkPassword);
 // 3. 상태 변수 관리
 /*
 범쌤 안녕하세요.. 상태 변수 관리가 무엇인지 잘 모르겠어요.. ㅠㅠ 
-오늘도 화이팅입니다! 럭키비키잔앙
+오늘도 화이팅입니다!
 */
 
 // 4. 로그인 버튼을 클릭시 조건처리
